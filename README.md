@@ -6,7 +6,4 @@ Python 3.x<br>
 PyQt5
 
 ## How to use
-Run 
-'''python 
-main.py
-'''
+Run `main.py ` in 'Main' folder
