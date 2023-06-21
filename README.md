@@ -19,7 +19,7 @@ Run `main.py` in 'Main' folder
 
 
 ## Issue
-No multi-language support for now<br>
-Missing fonts on windows, so to get better experience it is suggested to run it on macOS<br>
+No multi-language support for now.<br>
+Missing fonts on windows, so to get better experience it is suggested to run it on macOS.<br>
 Sometimes the key pair you generate may cause crash in encryping module, please re-generate key pair to avoid this problem.
 
