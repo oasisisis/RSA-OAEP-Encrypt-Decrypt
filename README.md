@@ -1,6 +1,6 @@
 # RSA-OAEP-Encrypt-Decrypt
 南京邮电大学 -《信息安全综合实验》- RSA-OAEP 的实现<br>
-NJUPT-'Information Security Laboratory Experiment'- RSA-OAEP<br>
+NJUPT-'Information Security Experiments'- RSA-OAEP<br>
 
 实现了一个图形化的 RSA 加密解密工具<br>
 This is a tool to encrypt plaintext into RSA ciphertext and decrypt into raw text.
