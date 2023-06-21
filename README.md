@@ -7,3 +7,9 @@ This is a tool to encrypt plaintext into RSA ciphertext and decrypt into raw tex
 
 ## How to use
 Run `main.py` in 'Main' folder
+
+## Issue
+No multi-language support for now<br>
+Missing fonts<br>
+Sometimes the key pair you generate may cause crash in encryping module, please re-generate key pair to avoid this problem.
+
