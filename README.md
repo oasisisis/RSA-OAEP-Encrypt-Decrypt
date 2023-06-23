@@ -18,6 +18,12 @@ This is a tool to encrypt plaintext into RSA ciphertext and decrypt into raw tex
 运行 'Main' 文件夹中的 `main.py`<br>
 Run `main.py` in 'Main' folder
 
+## 加密 / Encrypt
+0.打开密钥生成器，点击生成，稍等片刻即可看到密钥对，每个密钥对由一对括号中由逗号分隔的两个大数组成<br>
+1.公钥——>`(e, n)`<br>
+2.方便起见，不要关闭密钥生成窗口，将其拖放至一边，你也可以手动保存密钥对后关闭窗口<br>
+3.打开加密窗口，输入你要加密的明文，将生成的公钥对中的`e`和`n`复制到对应位置，点击加密，即可得到密文，请自行手动保存它<br>
+
 
 ## Issue
 暂时只有中文界面<br>
