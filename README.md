@@ -35,3 +35,6 @@ Missing fonts on windows, so to get better experience it is suggested to run it 
 有时使用程序生成的密钥对进行解密时可能导致程序闪退，重新生成即可<br>
 Sometimes the key pair you generate may cause crash in encryping module, please re-generate key pair to avoid this problem.
 
+
+## Credits
+
